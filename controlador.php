@@ -1,0 +1,1 @@
+<!-- Procesado de los filtros y petición a la API -->

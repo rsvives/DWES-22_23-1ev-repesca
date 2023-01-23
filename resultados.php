@@ -1,0 +1,1 @@
+<!-- Vista con los resultados que cumplen los filtros -->
